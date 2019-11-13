@@ -29,5 +29,5 @@
 * app/src/Controller - Controller the application, use [Slim Annotation](https://github.com/dilsonjlrjr/slim3-annotation) 
 for route definition;
 * app/src/View - View the application, use [Twig Framework] (https://twig.symfony.com/)
-* app/src/PluginActivities - Folder for plugins
+* app/src/Plugin - Folder for plugins
 * app/src/Mapper - Folder for Class ODM using [Doctrine ODM](http://docs.doctrine-project.org/projects/doctrine-mongodb-odm/en/latest/)
